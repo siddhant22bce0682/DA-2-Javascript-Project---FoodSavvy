@@ -1,3 +1,3 @@
 # Sid presents his website to u
 
-https://siddhantbg.github.io/FoodSavvy/
+https://siddhant22bce0682.github.io/DA-2-Javascript-Project---FoodSavvy/
